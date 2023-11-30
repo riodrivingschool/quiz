@@ -1,60 +1,60 @@
 [
-    {
-        "image":"assets/images/signs/Canada-Prohibitory-Sign-Turning-left-prohibited.webp",
-        "question": "Marque a alternativa correta",
-        "options": [
-            {
-                "label": "Deve se voltar a direita",
-                "isCorrect": false
-            },
-            {
-                "label": "Cruzamento encoberto a frente",
-                "isCorrect": false
-            },
-            {
-                "label": "Não deve voltar a esquerda",
-                "isCorrect": true
-            }
-        ]
-    },
-    {
-        "image":"assets/images/signs/Canada-Mandatory-Sign-Passing-right-mandatory.webp",
-        "question": "Marque a alternativa correta",
-        "options": [
-            {
-                "label": "Passar pela direita da ilha de tráfego",
-                "isCorrect": true
-            },
-            {
-                "label": "conversão à direita",
-                "isCorrect": false
-            },
-            {
-                "label": "Curvas na estrada",
-                "isCorrect": false
-            },
-            {
-                "label": "Passar outros carros pela direita",
-                "isCorrect": false
-            }
-        ]
-    },
-    {
-        "image":"assets/images/signs/esqueda.png",
-        "question": "Marque a alternativa correta",
-        "options": [
-            {
-                "label": "Deve se voltar a direita",
-                "isCorrect": false
-            },
-            {
-                "label": "Cruzamento encoberto a frente",
-                "isCorrect": false
-            },
-            {
-                "label": "Não deve voltar a esquerda",
-                "isCorrect": true
-            }
-        ]
-    }
+  {
+    "image": "assets/images/signs/Canada-Prohibitory-Sign-Turning-left-prohibited.webp",
+    "question": "Marque a alternativa correta",
+    "options": [
+      {
+        "label": "Deve se voltar a direita",
+        "isCorrect": false
+      },
+      {
+        "label": "Cruzamento encoberto a frente",
+        "isCorrect": false
+      },
+      {
+        "label": "Não deve voltar a esquerda",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "image": "assets/images/signs/Canada-Mandatory-Sign-Passing-right-mandatory.webp",
+    "question": "Marque a alternativa correta",
+    "options": [
+      {
+        "label": "Passar pela direita da ilha de tráfego",
+        "isCorrect": true
+      },
+      {
+        "label": "conversão à direita",
+        "isCorrect": false
+      },
+      {
+        "label": "Curvas na estrada",
+        "isCorrect": false
+      },
+      {
+        "label": "Passar outros carros pela direita",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "image": "assets/images/signs/esqueda.png",
+    "question": "Marque a alternativa correta",
+    "options": [
+      {
+        "label": "Deve se voltar a direita",
+        "isCorrect": false
+      },
+      {
+        "label": "Cruzamento encoberto a frente",
+        "isCorrect": false
+      },
+      {
+        "label": "Não deve voltar a esquerda",
+        "isCorrect": true
+      }
+    ]
+  }
 ]
